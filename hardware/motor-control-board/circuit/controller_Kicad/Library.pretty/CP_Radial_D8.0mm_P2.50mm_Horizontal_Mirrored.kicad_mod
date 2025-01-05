@@ -1,0 +1,222 @@
+(footprint "CP_Radial_D8.0mm_P2.50mm_Horizontal_Mirrored"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "CP, Radial series, Radial, pin pitch=2.50mm, , diameter=8mm, Electrolytic Capacitor")
+	(tags "CP Radial series Radial pin pitch 2.50mm  diameter 8mm Electrolytic Capacitor")
+	(property "Reference" "C1"
+		(at 4.629 12.319 90)
+		(layer "F.SilkS")
+		(uuid "7b258dbf-f824-4b21-91a6-c966c1bbf9ec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "100uF"
+		(at 1.215 4.1684 0)
+		(layer "F.Fab")
+		(uuid "1f116188-0976-40a7-9099-66dcde874e7a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Library:CP_Radial_D8.0mm_P2.50mm_Horizontal"
+		(at 2.43 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8402732e-7cac-4f9e-a267-e8834b0415ad")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 2.43 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c3d41804-ac12-49ec-b6e9-108151158bf0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 2.43 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "52d71c92-9775-4df3-9b99-f419af2e2d50")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer Part" "CA45-A-35V-0.1UF-K"
+		(at 2.43 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dcfa6222-2f9b-4fc0-935f-e7cfaf64c487")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "CEC(振华新云)"
+		(at 2.43 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "848a450c-0ff1-4677-85e3-724991895c94")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier Part" "C2976900"
+		(at 2.43 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fa76fe94-7f8c-4c73-8b21-bc9bc56b4a20")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier" "LCSC"
+		(at 2.43 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a6f460bd-bda7-4e01-806d-9115c2afd217")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 4.465 2.1184)
+		(end 4.465 2.9184)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f2f49500-46f4-4e64-9214-5497e38fdab1")
+	)
+	(fp_line
+		(start 4.865 2.5184)
+		(end 4.065 2.5184)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "81a17d95-1aee-4c86-a364-42ba1bfe0595")
+	)
+	(fp_rect
+		(start 1.215 1.4184)
+		(end -3.035 13.4184)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "22bff724-9015-402a-b3a6-270cbeef6646")
+	)
+	(fp_rect
+		(start 5.465 1.4184)
+		(end -3.035 13.4184)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "f633aa73-17e8-4239-b06b-8235f7dd7821")
+	)
+	(fp_rect
+		(start 5.715 1.1684)
+		(end -3.285 13.6684)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "d3d524c9-6ce5-4409-b524-774919105c52")
+	)
+	(fp_line
+		(start 3.482061 2.6859)
+		(end 3.482061 3.4859)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "90e0e71d-e043-4a26-a106-5cd495679e74")
+	)
+	(fp_line
+		(start 3.882061 3.0859)
+		(end 3.082061 3.0859)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ab201835-3ae7-487f-b1e5-5e0bfcbe0496")
+	)
+	(pad "1" thru_hole rect
+		(at 2.43 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9f34217c-eb76-4e8e-83e7-aba9e262dc1c")
+	)
+	(pad "2" thru_hole circle
+		(at -0.07 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8fd4c25a-a4db-4575-a5a8-2a23d14f5dd3")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D8.0mm_P2.50mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
