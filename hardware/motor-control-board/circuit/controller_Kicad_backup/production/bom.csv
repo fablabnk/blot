@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",CP_Radial_D8.0mm_P2.50mm_Horizontal_Mirrored,2,100uF,
+"C3, C4",C_Disc_D4.3mm_W1.9mm_P5.00mm,2,100nF,
+"CN1, CN2",PinHeader_1x04_P2.54mm_Horizontal,2,2510-4AW,
+D1,D_DO-35_SOD27_P7.62mm_Horizontal,1,1N5819,
+"H1, H2",PinSocket_1x12_P2.54mm_Vertical,2,KH-2.54FH-1X12P-H8.5,
+"H10, H7, H8, H9",PinSocket_1x08_P2.54mm_Vertical,4,PM254-1-08-Z-8.5,
+H3,PinSocket_1x03_P2.54mm_Vertical,1,Header-Male-2.54_1x3,
+"H4, H5, H6",PinSocket_1x07_P2.54mm_Vertical,3,PM254-1-07-Z-8.5,
+"PAD1, PAD2, PAD3, PAD4",HOLE-3.2MM,4,HOLE3.2,
+SW1,SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm_Pins_1_2_Reversed,1,SS-12D10L5,
