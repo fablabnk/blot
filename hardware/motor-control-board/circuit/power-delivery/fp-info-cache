@@ -1,4 +1,4 @@
-24416173847470710
+24417910480372088
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65568,6 +65568,13 @@ Yellow 5381 Series LED
 0
 2
 2
+Library
+SOFNG_MC-311D_12P_Female_USB-C_Connector
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
 Library
 USB-C-SMD_MC-311D
 

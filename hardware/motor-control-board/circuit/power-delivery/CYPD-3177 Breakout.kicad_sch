@@ -7745,7 +7745,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:USB-C-SMD_MC-311D"
+		(property "Footprint" "Library:SOFNG_MC-311D_12P_Female_USB-C_Connector"
 			(at 35.56 43.18 0)
 			(effects
 				(font
